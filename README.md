@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nhuijser
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java.
