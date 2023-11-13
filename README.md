@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhuijser&label=Profile%20views&color=b40e0e&style=flat-square" alt="nhuijser" /> </p>
 
-- 🔭 I’m currently working on [Processing](https://github.com/nhuijser/java)
+- 🔭 I’m currently working on SQL
 
-- 🌱 I’m currently learning **Processing**
+- 🌱 I’m currently learning **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
