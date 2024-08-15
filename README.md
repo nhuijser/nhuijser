@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhuijser&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhuijser&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
