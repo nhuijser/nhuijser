@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning PHP</p>
+<p align="center">📚 I'm currently on an internship at @daylinq</p>
 
 ###
 
