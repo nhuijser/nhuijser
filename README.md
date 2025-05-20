@@ -2,15 +2,11 @@
 
 ###
 
-<p align="center">My name is Nathan and I'm a student @ ROCvF</p>
+<p align="center">My name is Nathan and I'm a student @ Windesheim</p>
 
 ###
 
 <h2 align="center">About me</h2>
-
-###
-
-<p align="center">📚 I'm currently on an internship at @daylinq</p>
 
 ###
 
